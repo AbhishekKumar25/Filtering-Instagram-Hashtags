@@ -1,0 +1,5 @@
+create database instagram;
+use instagram;
+create table newuser(annotator_worker varchar(50),pass varchar(50),mobile varchar(12),mailid varchar(50),address varchar(50));
+
+
